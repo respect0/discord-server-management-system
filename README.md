@@ -2,7 +2,7 @@
 
 Bu proje, Discord sunucusundaki güvenlik açıklarını gidererek sunucuyu en güvenli hâle getiren bir yönetim sistemidir. Bu sayede web sitesi üzerinden istediğiniz kişiye dilediğiniz yönetim yetkisini verebilirsiniz.
 
-Projelerimi geliştirmeme yardımcı olmak adına start atarsanız çok sevinirim... ⭐<br>
+Projelerimi geliştirmeme yardımcı olmak adına star atarsanız çok sevinirim... ⭐<br>
 Sen de böyle bir sistem kurulumunu sunucuna sağlamak istiyorsan discord adresim **respect0**.
 
 ---
