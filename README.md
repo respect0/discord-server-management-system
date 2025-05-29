@@ -1,4 +1,4 @@
-# Discord Server Management System
+# Discord Sunucu Yönetim Sistemi
 
 Bu proje, Discord sunucusundaki güvenlik açıklarını gidererek sunucuyu en güvenli hâle getiren bir yönetim sistemidir. Bu sayede web sitesi üzerinden istediğiniz kişiye dilediğiniz yönetim yetkisini verebilirsiniz.
 
